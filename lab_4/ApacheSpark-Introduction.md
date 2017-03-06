@@ -140,7 +140,7 @@ The instructors may have the files more easily accessible for you if you
 have problems with the procedure below.
 
 Retrieve the files from this directory on GitHub:
-<https://github.com/UC-Berkeley-I-School/w205-labs-exercises/tree/master/data/Crimes_-_2001_to_present_data>
+<https://github.com/UC-Berkeley-I-School/w205-spring-17-labs-exercises/tree/master/data/Crimes_-_2001_to_present_data>
 
 > *Note: the URL may differ for you as we create a new repository each
 > semester.*
@@ -150,7 +150,7 @@ already done so, us a git pull to update. A clone would look like the
 following.
 ```
 git clone
-https://github.com/UC-Berkeley-I-School/w205-labs-exercises.git
+https://github.com/UC-Berkeley-I-School/w205-spring-17-labs-exercises.git
 ```
 The files are in the `data/Crimes_-_2001_to_present_data directory`.
 
